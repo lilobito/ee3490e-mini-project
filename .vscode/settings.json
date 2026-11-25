@@ -1,0 +1,10 @@
+{
+  "[c]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false
+  },
+  "files.exclude": {
+    "**/*.exe": true
+  }
+}

@@ -1,0 +1,7 @@
+code,name,min,max,failure
+1,TV,200,40,250
+2,Laptop,7,90,120
+3,Desktop,60,700,1000
+4,Monitor,15,100,200
+5,Lamp,5,15,20
+6,Fan,10,40,60

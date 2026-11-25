@@ -1,0 +1,5 @@
+*.exe
+*.o
+*.log
+!tests/task2/*/mong_doi/task2.log
+ket_qua_task2.txt

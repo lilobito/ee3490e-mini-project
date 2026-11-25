@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "name": "EE3490E",
+      "includePath": [
+        "${workspaceFolder}/MSSV1_MSSV2_mini_project_20261/task_2",
+        "${workspaceFolder}/**"
+      ],
+      "compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+      "cStandard": "c17",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}
